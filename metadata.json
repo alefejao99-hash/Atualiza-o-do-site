@@ -1,0 +1,6 @@
+{
+  "name": "Conversor de Achadinhos",
+  "description": "Plataforma de criação de links de afiliados com temas dinâmicos inspirados em Bass Achadinhos e ClickPromo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
